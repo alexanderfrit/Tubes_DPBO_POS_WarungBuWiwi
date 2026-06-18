@@ -1,0 +1,17 @@
+# Hasil build / kompilasi
+target/
+*.class
+
+# Folder IDE
+.vscode/
+.idea/
+*.iml
+
+# File Database (Biar transaksi test tidak ikut ter-upload)
+warung.db
+*.sqlite
+*.db
+
+# OS Files
+desktop.ini
+.DS_Store
