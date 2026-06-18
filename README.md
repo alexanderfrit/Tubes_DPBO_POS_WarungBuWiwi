@@ -23,4 +23,5 @@ Aplikasi desktop Point of Sale (POS) sederhana berbasis Java Swing dan SQLite. D
 2. Nicky
 3. Abed 
 4. Faiz
+5. Krisna
    
