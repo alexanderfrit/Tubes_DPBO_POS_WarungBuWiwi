@@ -17,3 +17,6 @@ Aplikasi desktop Point of Sale (POS) sederhana berbasis Java Swing dan SQLite. D
 ## Fitur
 - **Kelola Barang:** CRUD (Tambah, Ubah, Hapus) stok barang.
 - **Kasir:** Pencatatan transaksi penjualan, potong stok otomatis, hitung kembalian, cetak struk digital.
+
+## Anggota Kelompok
+1. Alex
