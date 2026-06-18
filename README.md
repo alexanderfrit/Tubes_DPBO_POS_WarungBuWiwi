@@ -21,4 +21,6 @@ Aplikasi desktop Point of Sale (POS) sederhana berbasis Java Swing dan SQLite. D
 ## Anggota Kelompok
 1. Alex
 2. Nicky
-3. Abed
+3. Abed 
+4. faiz
+5. 
